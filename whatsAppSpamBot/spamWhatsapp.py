@@ -13,3 +13,5 @@ i = 0
 while i < 5:
     elemTextbox[1].send_keys('test')
     b.find_element_by_class_name('send-container').click()
+
+### I need to fix this, this at the moment does not work
