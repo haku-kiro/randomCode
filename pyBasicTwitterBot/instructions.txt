@@ -1,0 +1,17 @@
+This is a basic twitter bot that I wrote:
+
+1. Collects a random picture and saves it. 
+2. Tweets that image.
+
+3.Every hour, repeats that cycle.
+
+
+To repeat steps one and two I set up a basic cron job on my rPi.
+
+Those that are interested:
+sudo crontab -e
+Then add the following line to then end of your jobs:
+*/60 * * * * bash /<pathToBashScript>/getImg.sh && python /<pathToPyScript>/pyBot.py 
+
+
+You'll need to set up your own twitter account with your api keys etc. Also, you have to save the img in the same folder as the python script (Of Course).
