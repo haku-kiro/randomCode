@@ -1,0 +1,6 @@
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\Projects\C#\readingTextFiles\readingTextFiles\bin\Debug\readingTextFiles.exe.config
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\Projects\C#\readingTextFiles\readingTextFiles\bin\Debug\readingTextFiles.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\Projects\C#\readingTextFiles\readingTextFiles\bin\Debug\readingTextFiles.pdb
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\Projects\C#\readingTextFiles\readingTextFiles\obj\Debug\readingTextFiles.csprojResolveAssemblyReference.cache
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\Projects\C#\readingTextFiles\readingTextFiles\obj\Debug\readingTextFiles.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\Projects\C#\readingTextFiles\readingTextFiles\obj\Debug\readingTextFiles.pdb
